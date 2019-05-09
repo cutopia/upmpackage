@@ -1,0 +1,16 @@
+{
+	"name": "com.cutopia.helloworld",
+	"displayName": "Hello World",
+	"version": "0.1",
+	"unity": "2018.3",
+	"description": "Sez Hello World",
+	"keywords": ["hello", "world"],
+	"category": "",
+	"dependencies": {
+		"com.unity.addressables": "0.7.5-preview"
+	},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cutopia/upmpackage.git"
+  }
+}

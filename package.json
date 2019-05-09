@@ -1,7 +1,7 @@
 {
 	"name": "com.cutopia.helloworld",
 	"displayName": "Hello World",
-	"version": "0.1",
+	"version": "https://github.com/cutopia/upmpackage.git",
 	"unity": "2018.3",
 	"description": "Sez Hello World",
 	"keywords": ["hello", "world"],

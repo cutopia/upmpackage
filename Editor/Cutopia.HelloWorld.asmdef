@@ -1,0 +1,10 @@
+﻿{
+    "name": "Cutopia.HelloWorld",
+    "references": [],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
